@@ -10,25 +10,25 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jente Rosseel</h1>
+<h1 align="center">Hi 👋, I'm Maurene Chepkemoi Rono </h1>
 <!-- TODO: Replace with your intro text -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
 <h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jrosseel" alt="jrosseel" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy](https://github.com/ChepkemoiMaurene/portfolio/edit/main/readme.md"><img src="[https://github-profile-trophy.vercel.app/?username=jrosseel](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO5cW_TXskdJUyWuuj1Gc7Ggjjnosu7p_TRA&usqp=CAU)" alt="Maurene chepkemoi rono" /></a> </p>
 
 <!-- SOCIALS. TODO: SWAP OUT YOUR URL AND NAME. -->
 <p align="left" style="float: left;"> 
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/jrosseel" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
+  <a href="[https://linkedin.com/in/jrosseel](https://www.linkedin.com/in/maurene-chepkemoi-21a91224b/)" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Maurene Chepkemoi Rono LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
+  <a href="https://twitter.com/jenterosseel" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Maurene chepkemoi rono Twitter" /></a> 
   <span>&nbsp;</span>
   <!-- Stack overflow -->
-  <a href="https://stackoverflow.com/users/jente-rosseel" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
+  <a href="https://stackoverflow.com/users/maurene chepkemoi rono" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Maurene chepkemoi rono Stack Overflow" /></a> 
 
   <!-- Other badges -->
   <!-- 
